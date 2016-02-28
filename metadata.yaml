@@ -1,0 +1,31 @@
+_repo: Fabeln-und-Erzahlungen_9158
+creator:
+  author:
+    agent_name: Lessing, Gotthold Ephraim
+    alias: Lessing, G. E.
+    birthdate: 1729
+    deathdate: 1781
+    gutenberg_agent_id: '990'
+    url: http://www.gutenberg.org/2009/agents/990
+    wikipedia: http://en.wikipedia.org/wiki/Gotthold_Ephraim_Lessing
+description: ''
+gutenberg_bookshelf: DE Kinderbuch
+gutenberg_issued: '2005-10-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '9158'
+language: de
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fables'
+- !lcc 'PT'
+tableOfContents: "Das Geheimnis\r\nDas Kruzifix\r\nDas Muster der Ehen\r\nDer über\
+  \ uns\r\nDer Adler und die Eule\r\nDer Eremit\r\nDer Hirsch und der Fuchs\r\nDer\
+  \ Löwe und die Mücke\r\nDer Sperling und die Feldmaus\r\nDer Tanzbär\r\nDer Wunsch\
+  \ zu sterben\r\nDie Bäre\r\nDie Brille\r\nDie Nuß und die Katze\r\nDie Sonne\r\n\
+  Die Teilung\r\nDie eheliche Liebe\r\nDie kranke Pulcheria\r\nFaustin\r\nMorydan\r\
+  \nNix Bodenstrom"
+title: Fabeln und Erzählungen
+url: http://www.gutenberg.org/ebooks/9158
